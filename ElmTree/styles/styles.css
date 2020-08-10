@@ -1,0 +1,69 @@
+#cameraimg{
+	width:100%;
+	border-bottom: 10px;
+	border-color: black;
+	
+}
+
+#borderdnavimage{
+	height:5px;
+	
+}
+
+#footer{
+	height:15px;
+}
+
+#products{
+	padding:10px;
+}
+
+#MainTitles{
+	border-bottom:1px;
+	padding-bottom:10px;
+}
+
+#tableProducts{
+	height:200px;
+	padding-left:10px;
+	padding-right:10px;
+	
+}
+
+#productGrid{
+	width:100%;
+}
+
+#footerimg{
+	height:100px;
+}
+
+#footer{
+	height: 100%;
+	width:100%;
+	
+}
+
+#filler{
+	height:25px;
+}
+
+#products{
+	width:60%;	
+}
+
+#profilepic{
+	height:300px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+#productadd{
+	height:200px;
+	width:200px;
+}
+
+
+
+
+
